@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Sexto-Projeto-Em-C#\Sexto Projeto Em C#\Sexto Projeto Em C#\bin\Debug\Sexto Projeto Em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Sexto-Projeto-Em-C#\Sexto Projeto Em C#\Sexto Projeto Em C#\bin\Debug\Sexto Projeto Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Sexto-Projeto-Em-C#\Sexto Projeto Em C#\Sexto Projeto Em C#\bin\Debug\Sexto Projeto Em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Sexto-Projeto-Em-C#\Sexto Projeto Em C#\Sexto Projeto Em C#\obj\Debug\Sexto Projeto Em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Sexto-Projeto-Em-C#\Sexto Projeto Em C#\Sexto Projeto Em C#\obj\Debug\Sexto Projeto Em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Sexto-Projeto-Em-C#\Sexto Projeto Em C#\Sexto Projeto Em C#\obj\Debug\Sexto Projeto Em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Sexto-Projeto-Em-C#\Sexto Projeto Em C#\Sexto Projeto Em C#\obj\Debug\Sexto Projeto Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Sexto-Projeto-Em-C#\Sexto Projeto Em C#\Sexto Projeto Em C#\obj\Debug\Sexto Projeto Em C#.pdb
